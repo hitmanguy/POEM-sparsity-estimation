@@ -97,22 +97,6 @@ poem-sparsity-estimation/
 
 ---
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@inproceedings{chauhan2027poem,
-  author    = {Chauhan, Sahil},
-  title     = {Joint Sparsity-Order and Variance Estimation from Sparse Binary Compressive Measurements via Multi-Round Composite Likelihood},
-  booktitle = {Proc. IEEE Wireless Communications and Networking Conference (WCNC)},
-  year      = {2027},
-  note      = {Under review}
-}
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License — see [`LICENSE`](LICENSE) for details.
