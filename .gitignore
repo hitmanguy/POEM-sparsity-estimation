@@ -1,0 +1,24 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.autosave
+
+# MEX and Simulink build artifacts
+*.mex*
+slprj/
+sfprj/
+
+# Generated results
+results/*.mat
+results/*.csv
+results/*.txt
+results/*.png
+results/*.pdf
+!results/.gitkeep
+
+# Exclude >100 MB raw TIFF stack from git (extracted frames 2391-2400 are in data/processed/smlm_frames_2391_2400.mat)
+data/raw/sequence-MT0.N2.LD-2D-Exp-as-stack/*.tif
+
+# OS metadata
+.DS_Store
+Thumbs.db
